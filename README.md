@@ -1,4 +1,6 @@
 Chatbot Code Repository
+
+
 This repository contains the core Python scripts for the Chatbot Application designed using advanced Natural Language Processing (NLP) techniques. The chatbot is built to perform various NLP tasks such as sentiment analysis, language translation, text classification, and plagiarism detection.
 
 🚀 Features
@@ -27,7 +29,7 @@ Cosine Similarity for plagiarism detection.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/chatbot-code.git
+[git clone https://github.com/yourusername/chatbot-code.git](https://github.com/Sania-ali19)
 Navigate to the project directory:
 bash
 Copy code
